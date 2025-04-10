@@ -21,5 +21,5 @@ Random Forest მოდელს overfitting-ისკენ,ამის თა
 საუკეთესო მოდელის შედეგები:
 მოდელი არჩეულია მიღწეული მეტრიკების საფუძველზე, რომლებიც აჩვენებენ მის სიზუსტეს და სტაბილურობას სხვადასხვა მონაცემზე.
 
-
+https://dagshub.com/electrolizzys/ML_assn_01.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
 # Readme
