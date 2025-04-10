@@ -20,6 +20,9 @@ model-inference.ipynb — ფოკუსირებულია საბო�
 Random Forest მოდელს overfitting-ისკენ,ამის თავიდან ასაცილებლად მოხდა კროსვალიდაციის შედეგების შეფასება, Feature Selection - სვეტების მოცილებით.
 საუკეთესო მოდელის შედეგები:
 მოდელი არჩეულია მიღწეული მეტრიკების საფუძველზე, რომლებიც აჩვენებენ მის სიზუსტეს და სტაბილურობას სხვადასხვა მონაცემზე.
+RMSLE  0.14523618002742475 
+
+
 
 https://dagshub.com/electrolizzys/ML_assn_01.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
 # Readme
